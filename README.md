@@ -7,7 +7,7 @@ The very first CyberSecurity discussions at the University of California, Merced
 - This project led the way to new and improved CyberSecurity discussions and workshops. 
 
 # About 
-Founded Spring 2018 
+Founded Fall 2018 
 - Discussions led to hands-on workshop and established the CyberSecurity Division of the Q Project at UC Merced 
 - Since it's inception this project has served a total of over hundreds of students. 
 

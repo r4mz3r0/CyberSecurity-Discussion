@@ -1,4 +1,4 @@
-# CyberSecurity-Discussion
+# CyberSecurity-Discussions
 
 The very first CyberSecurity discussions at the University of California, Merced.
 
